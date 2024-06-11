@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/youtube-downloader.git
+    git clone https://github.com/Pranjol-Dev/youtube-downloader.git
     ```
 
 2. Navigate to the project directory:
